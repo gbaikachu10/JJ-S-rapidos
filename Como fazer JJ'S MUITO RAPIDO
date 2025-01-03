@@ -1,0 +1,10010 @@
+letra = 0
+
+Tab::
+
+if (letra = 0)
+{
+    SendInput, ZERO {!}
+    letra++
+}
+else if (letra = 1)
+{
+    SendInput, UM {!}
+    letra++
+}
+else if (letra = 2)
+{
+    SendInput, DOIS {!}
+    letra++
+}
+else if (letra = 3)
+{
+    SendInput, TRÊS {!}
+    letra++
+}
+else if (letra = 4)
+{
+    SendInput, QUATRO {!}
+    letra++
+}
+else if (letra = 5)
+{
+    SendInput, CINCO {!}
+    letra++
+}
+else if (letra = 6)
+{
+    SendInput, SEIS {!}
+    letra++
+}
+else if (letra = 7)
+{
+    SendInput, SETE {!}
+    letra++
+}
+else if (letra = 8)
+{
+    SendInput, OITO {!}
+    letra++
+}
+else if (letra = 9)
+{
+    SendInput, NOVE {!}
+    letra++
+}
+else if (letra = 10)
+{
+    SendInput, DEZ {!}
+    letra++
+}
+else if (letra = 11)
+{
+    SendInput, ONZE {!}
+    letra++
+}
+else if (letra = 12)
+{
+    SendInput, DOZE {!}
+    letra++
+}
+else if (letra = 13)
+{
+    SendInput, TREZE {!}
+    letra++
+}
+else if (letra = 14)
+{
+    SendInput, QUATORZE {!}
+    letra++
+}
+else if (letra = 15)
+{
+    SendInput, QUINZE {!}
+    letra++
+}
+else if (letra = 16)
+{
+    SendInput, DEZESSEIS {!}
+    letra++
+}
+else if (letra = 17)
+{
+    SendInput, DEZESSETE {!}
+    letra++
+}
+else if (letra = 18)
+{
+    SendInput, DEZOITO {!}
+    letra++
+}
+else if (letra = 19)
+{
+    SendInput, DEZENOVE {!}
+    letra++
+}
+else if (letra = 20)
+{
+    SendInput, VINTE {!}
+    letra++
+}
+else if (letra = 21)
+{
+    SendInput, VINTE E UM {!}
+    letra++
+}
+else if (letra = 22)
+{
+    SendInput, VINTE E DOIS {!}
+    letra++
+}
+else if (letra = 23)
+{
+    SendInput, VINTE E TRÊS {!}
+    letra++
+}
+else if (letra = 24)
+{
+    SendInput, VINTE E QUATRO {!}
+    letra++
+}
+else if (letra = 25)
+{
+    SendInput, VINTE E CINCO {!}
+    letra++
+}
+else if (letra = 26)
+{
+    SendInput, VINTE E SEIS {!}
+    letra++
+}
+else if (letra = 27)
+{
+    SendInput, VINTE E SETE {!}
+    letra++
+}
+else if (letra = 28)
+{
+    SendInput, VINTE E OITO {!}
+    letra++
+}
+else if (letra = 29)
+{
+    SendInput, VINTE E NOVE {!}
+    letra++
+}
+else if (letra = 30)
+{
+    SendInput, TRINTA {!}
+    letra++
+}
+else if (letra = 31)
+{
+    SendInput, TRINTA E UM {!}
+    letra++
+}
+else if (letra = 32)
+{
+    SendInput, TRINTA E DOIS {!}
+    letra++
+}
+else if (letra = 33)
+{
+    SendInput, TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra = 34)
+{
+    SendInput, TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra = 35)
+{
+    SendInput, TRINTA E CINCO {!}
+    letra++
+}
+else if (letra = 36)
+{
+    SendInput, TRINTA E SEIS {!}
+    letra++
+}
+else if (letra = 37)
+{
+    SendInput, TRINTA E SETE {!}
+    letra++
+}
+else if (letra = 38)
+{
+    SendInput, TRINTA E OITO {!}
+    letra++
+}
+else if (letra = 39)
+{
+    SendInput, TRINTA E NOVE {!}
+    letra++
+}
+else if (letra = 40)
+{
+    SendInput, QUARENTA {!}
+    letra++
+}
+else if (letra = 41)
+{
+    SendInput, QUARENTA E UM {!}
+    letra++
+}
+else if (letra = 42)
+{
+    SendInput, QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra = 43)
+{
+    SendInput, QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra = 44)
+{
+    SendInput, QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra = 45)
+{
+    SendInput, QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra = 46)
+{
+    SendInput, QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra = 47)
+{
+    SendInput, QUARENTA E SETE {!}
+    letra++
+}
+else if (letra = 48)
+{
+    SendInput, QUARENTA E OITO {!}
+    letra++
+}
+else if (letra = 49)
+{
+    SendInput, QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra = 50)
+{
+    SendInput, CINQUENTA {!}
+    letra++
+}
+else if (letra = 51)
+{
+    SendInput, CINQUENTA E UM {!}
+    letra++
+}
+else if (letra = 52)
+{
+    SendInput, CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra = 53)
+{
+    SendInput, CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra = 54)
+{
+    SendInput, CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra = 55)
+{
+    SendInput, CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra = 56)
+{
+    SendInput, CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra = 57)
+{
+    SendInput, CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra = 58)
+{
+    SendInput, CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra = 59)
+{
+    SendInput, CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra = 60)
+{
+    SendInput, SESSENTA {!}
+    letra++
+}
+else if (letra = 61)
+{
+    SendInput, SESSENTA E UM {!}
+    letra++
+}
+else if (letra = 62)
+{
+    SendInput, SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra = 63)
+{
+    SendInput, SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra = 64)
+{
+    SendInput, SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra = 65)
+{
+    SendInput, SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra = 66)
+{
+    SendInput, SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra = 67)
+{
+    SendInput, SESSENTA E SETE {!}
+    letra++
+}
+else if (letra = 68)
+{
+    SendInput, SESSENTA E OITO {!}
+    letra++
+}
+else if (letra = 69)
+{
+    SendInput, SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra = 70)
+{
+    SendInput, SETENTA {!}
+    letra++
+}
+else if (letra = 71)
+{
+    SendInput, SETENTA E UM {!}
+    letra++
+}
+else if (letra = 72)
+{
+    SendInput, SETENTA E DOIS {!}
+    letra++
+}
+else if (letra = 73)
+{
+    SendInput, SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra = 74)
+{
+    SendInput, SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra = 75)
+{
+    SendInput, SETENTA E CINCO {!}
+    letra++
+}
+else if (letra = 76)
+{
+    SendInput, SETENTA E SEIS {!}
+    letra++
+}
+else if (letra = 77)
+{
+    SendInput, SETENTA E SETE {!}
+    letra++
+}
+else if (letra = 78)
+{
+    SendInput, SETENTA E OITO {!}
+    letra++
+}
+else if (letra = 79)
+{
+    SendInput, SETENTA E NOVE {!}
+    letra++
+}
+else if (letra = 80)
+{
+    SendInput, OITENTA {!}
+    letra++
+}
+else if (letra = 81)
+{
+    SendInput, OITENTA E UM {!}
+    letra++
+}
+else if (letra = 82)
+{
+    SendInput, OITENTA E DOIS {!}
+    letra++
+}
+else if (letra = 83)
+{
+    SendInput, OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra = 84)
+{
+    SendInput, OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra = 85)
+{
+    SendInput, OITENTA E CINCO {!}
+    letra++
+}
+else if (letra = 86)
+{
+    SendInput, OITENTA E SEIS {!}
+    letra++
+}
+else if (letra = 87)
+{
+    SendInput, OITENTA E SETE {!}
+    letra++
+}
+else if (letra = 88)
+{
+    SendInput, OITENTA E OITO {!}
+    letra++
+}
+else if (letra = 89)
+{
+    SendInput, OITENTA E NOVE {!}
+    letra++
+}
+else if (letra = 90)
+{
+    SendInput, NOVENTA {!}
+    letra++
+}
+else if (letra = 91)
+{
+    SendInput, NOVENTA E UM {!}
+    letra++
+}
+else if (letra = 92)
+{
+    SendInput, NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra = 93)
+{
+    SendInput, NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra = 94)
+{
+    SendInput, NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra = 95)
+{
+    SendInput, NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra = 96)
+{
+    SendInput, NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra = 97)
+{
+    SendInput, NOVENTA E SETE {!}
+    letra++
+}
+else if (letra = 98)
+{
+    SendInput, NOVENTA E OITO {!}
+    letra++
+}
+else if (letra = 99)
+{
+    SendInput, NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra = 100)
+{
+    SendInput, CEM {!}
+    letra++
+}
+else if (letra == 101)
+{
+    SendInput, CENTO E UM {!}
+    letra++
+}
+else if (letra == 102)
+{
+    SendInput, CENTO E DOIS {!}
+    letra++
+}
+else if (letra == 103)
+{
+    SendInput, CENTO E TRÊS {!}
+    letra++
+}
+else if (letra == 104)
+{
+    SendInput, CENTO E QUATRO {!}
+    letra++
+}
+else if (letra == 105)
+{
+    SendInput, CENTO E CINCO {!}
+    letra++
+}
+else if (letra == 106)
+{
+    SendInput, CENTO E SEIS {!}
+    letra++
+}
+else if (letra == 107)
+{
+    SendInput, CENTO E SETE {!}
+    letra++
+}
+else if (letra == 108)
+{
+    SendInput, CENTO E OITO {!}
+    letra++
+}
+else if (letra == 109)
+{
+    SendInput, CENTO E NOVE {!}
+    letra++
+}
+else if (letra == 110)
+{
+    SendInput, CENTO E DEZ {!}
+    letra++
+}
+else if (letra == 111)
+{
+    SendInput, CENTO E ONZE {!}
+    letra++
+}
+else if (letra == 112)
+{
+    SendInput, CENTO E DOZE {!}
+    letra++
+}
+else if (letra == 113)
+{
+    SendInput, CENTO E TREZE {!}
+    letra++
+}
+else if (letra == 114)
+{
+    SendInput, CENTO E QUATORZE {!}
+    letra++
+}
+else if (letra == 115)
+{
+    SendInput, CENTO E QUINZE {!}
+    letra++
+}
+else if (letra == 116)
+{
+    SendInput, CENTO E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 117)
+{
+    SendInput, CENTO E DEZESSETE {!}
+    letra++
+}
+else if (letra == 118)
+{
+    SendInput, CENTO E DEZOITO {!}
+    letra++
+}
+else if (letra == 119)
+{
+    SendInput, CENTO E DEZENOVE {!}
+    letra++
+}
+else if (letra == 120)
+{
+    SendInput, CENTO E VINTE {!}
+    letra++
+}
+else if (letra == 121)
+{
+    SendInput, CENTO E VINTE E UM {!}
+    letra++
+}
+else if (letra == 122)
+{
+    SendInput, CENTO E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 123)
+{
+    SendInput, CENTO E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 124)
+{
+    SendInput, CENTO E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 125)
+{
+    SendInput, CENTO E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 126)
+{
+    SendInput, CENTO E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 127)
+{
+    SendInput, CENTO E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 128)
+{
+    SendInput, CENTO E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 129)
+{
+    SendInput, CENTO E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 130)
+{
+    SendInput, CENTO E TRINTA {!}
+    letra++
+}
+else if (letra == 131)
+{
+    SendInput, CENTO E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 132)
+{
+    SendInput, CENTO E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 133)
+{
+    SendInput, CENTO E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 134)
+{
+    SendInput, CENTO E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 135)
+{
+    SendInput, CENTO E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 136)
+{
+    SendInput, CENTO E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 137)
+{
+    SendInput, CENTO E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 138)
+{
+    SendInput, CENTO E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 139)
+{
+    SendInput, CENTO E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 140)
+{
+    SendInput, CENTO E QUARENTA {!}
+    letra++
+}
+else if (letra == 141)
+{
+    SendInput, CENTO E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 142)
+{
+    SendInput, CENTO E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 143)
+{
+    SendInput, CENTO E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 144)
+{
+    SendInput, CENTO E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 145)
+{
+    SendInput, CENTO E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 146)
+{
+    SendInput, CENTO E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 147)
+{
+    SendInput, CENTO E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 148)
+{
+    SendInput, CENTO E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 149)
+{
+    SendInput, CENTO E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 150)
+{
+    SendInput, CENTO E CINQUENTA {!}
+    letra++
+}
+else if (letra == 151)
+{
+    SendInput, CENTO E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 152)
+{
+    SendInput, CENTO E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 153)
+{
+    SendInput, CENTO E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 154)
+{
+    SendInput, CENTO E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 155)
+{
+    SendInput, CENTO E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 156)
+{
+    SendInput, CENTO E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 157)
+{
+    SendInput, CENTO E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 158)
+{
+    SendInput, CENTO E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 159)
+{
+    SendInput, CENTO E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 160)
+{
+    SendInput, CENTO E SESSENTA {!}
+    letra++
+}
+else if (letra == 161)
+{
+    SendInput, CENTO E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 162)
+{
+    SendInput, CENTO E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 163)
+{
+    SendInput, CENTO E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 164)
+{
+    SendInput, CENTO E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 165)
+{
+    SendInput, CENTO E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 166)
+{
+    SendInput, CENTO E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 167)
+{
+    SendInput, CENTO E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 168)
+{
+    SendInput, CENTO E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 169)
+{
+    SendInput, CENTO E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 170)
+{
+    SendInput, CENTO E SETENTA {!}
+    letra++
+}
+else if (letra == 171)
+{
+    SendInput, CENTO E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 172)
+{
+    SendInput, CENTO E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 173)
+{
+    SendInput, CENTO E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 174)
+{
+    SendInput, CENTO E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 175)
+{
+    SendInput, CENTO E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 176)
+{
+    SendInput, CENTO E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 177)
+{
+    SendInput, CENTO E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 178)
+{
+    SendInput, CENTO E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 179)
+{
+    SendInput, CENTO E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 180)
+{
+    SendInput, CENTO E OITENTA {!}
+    letra++
+}
+else if (letra == 181)
+{
+    SendInput, CENTO E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 182)
+{
+    SendInput, CENTO E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 183)
+{
+    SendInput, CENTO E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 184)
+{
+    SendInput, CENTO E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 185)
+{
+    SendInput, CENTO E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 186)
+{
+    SendInput, CENTO E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 187)
+{
+    SendInput, CENTO E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 188)
+{
+    SendInput, CENTO E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 189)
+{
+    SendInput, CENTO E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 190)
+{
+    SendInput, CENTO E NOVENTA {!}
+    letra++
+}
+else if (letra == 191)
+{
+    SendInput, CENTO E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 192)
+{
+    SendInput, CENTO E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 193)
+{
+    SendInput, CENTO E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 194)
+{
+    SendInput, CENTO E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 195)
+{
+    SendInput, CENTO E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 196)
+{
+    SendInput, CENTO E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 197)
+{
+    SendInput, CENTO E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 198)
+{
+    SendInput, CENTO E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 199)
+{
+    SendInput, CENTO E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 200)
+{
+    SendInput, DUZENTOS {!}
+    letra++
+}
+else if (letra == 201)
+{
+    SendInput, DUZENTOS E UM {!}
+    letra++
+}
+else if (letra == 202)
+{
+    SendInput, DUZENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 203)
+{
+    SendInput, DUZENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 204)
+{
+    SendInput, DUZENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 205)
+{
+    SendInput, DUZENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 206)
+{
+    SendInput, DUZENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 207)
+{
+    SendInput, DUZENTOS E SETE {!}
+    letra++
+}
+else if (letra == 208)
+{
+    SendInput, DUZENTOS E OITO {!}
+    letra++
+}
+else if (letra == 209)
+{
+    SendInput, DUZENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 210)
+{
+    SendInput, DUZENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 211)
+{
+    SendInput, DUZENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 212)
+{
+    SendInput, DUZENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 213)
+{
+    SendInput, DUZENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 214)
+{
+    SendInput, DUZENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 215)
+{
+    SendInput, DUZENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 216)
+{
+    SendInput, DUZENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 217)
+{
+    SendInput, DUZENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 218)
+{
+    SendInput, DUZENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 219)
+{
+    SendInput, DUZENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 220)
+{
+    SendInput, DUZENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 221)
+{
+    SendInput, DUZENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 222)
+{
+    SendInput, DUZENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 223)
+{
+    SendInput, DUZENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 224)
+{
+    SendInput, DUZENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 225)
+{
+    SendInput, DUZENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 226)
+{
+    SendInput, DUZENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 227)
+{
+    SendInput, DUZENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 228)
+{
+    SendInput, DUZENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 229)
+{
+    SendInput, DUZENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 230)
+{
+    SendInput, DUZENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 231)
+{
+    SendInput, DUZENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 232)
+{
+    SendInput, DUZENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 233)
+{
+    SendInput, DUZENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 234)
+{
+    SendInput, DUZENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 235)
+{
+    SendInput, DUZENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 236)
+{
+    SendInput, DUZENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 237)
+{
+    SendInput, DUZENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 238)
+{
+    SendInput, DUZENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 239)
+{
+    SendInput, DUZENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 240)
+{
+    SendInput, DUZENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 241)
+{
+    SendInput, DUZENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 242)
+{
+    SendInput, DUZENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 243)
+{
+    SendInput, DUZENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 244)
+{
+    SendInput, DUZENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 245)
+{
+    SendInput, DUZENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 246)
+{
+    SendInput, DUZENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 247)
+{
+    SendInput, DUZENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 248)
+{
+    SendInput, DUZENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 249)
+{
+    SendInput, DUZENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 250)
+{
+    SendInput, DUZENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 251)
+{
+    SendInput, DUZENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 252)
+{
+    SendInput, DUZENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 253)
+{
+    SendInput, DUZENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 254)
+{
+    SendInput, DUZENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 255)
+{
+    SendInput, DUZENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 256)
+{
+    SendInput, DUZENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 257)
+{
+    SendInput, DUZENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 258)
+{
+    SendInput, DUZENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 259)
+{
+    SendInput, DUZENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 260)
+{
+    SendInput, DUZENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 261)
+{
+    SendInput, DUZENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 262)
+{
+    SendInput, DUZENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 263)
+{
+    SendInput, DUZENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 264)
+{
+    SendInput, DUZENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 265)
+{
+    SendInput, DUZENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 266)
+{
+    SendInput, DUZENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 267)
+{
+    SendInput, DUZENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 268)
+{
+    SendInput, DUZENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 269)
+{
+    SendInput, DUZENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 270)
+{
+    SendInput, DUZENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 271)
+{
+    SendInput, DUZENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 272)
+{
+    SendInput, DUZENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 273)
+{
+    SendInput, DUZENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 274)
+{
+    SendInput, DUZENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 275)
+{
+    SendInput, DUZENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 276)
+{
+    SendInput, DUZENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 277)
+{
+    SendInput, DUZENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 278)
+{
+    SendInput, DUZENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 279)
+{
+    SendInput, DUZENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 280)
+{
+    SendInput, DUZENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 281)
+{
+    SendInput, DUZENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 282)
+{
+    SendInput, DUZENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 283)
+{
+    SendInput, DUZENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 284)
+{
+    SendInput, DUZENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 285)
+{
+    SendInput, DUZENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 286)
+{
+    SendInput, DUZENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 287)
+{
+    SendInput, DUZENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 288)
+{
+    SendInput, DUZENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 289)
+{
+    SendInput, DUZENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 290)
+{
+    SendInput, DUZENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 291)
+{
+    SendInput, DUZENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 292)
+{
+    SendInput, DUZENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 293)
+{
+    SendInput, DUZENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 294)
+{
+    SendInput, DUZENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 295)
+{
+    SendInput, DUZENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 296)
+{
+    SendInput, DUZENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 297)
+{
+    SendInput, DUZENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 298)
+{
+    SendInput, DUZENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 299)
+{
+    SendInput, DUZENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 300)
+{
+    SendInput, TREZENTOS {!}
+    letra++
+}
+else if (letra == 301)
+{
+    SendInput, TREZENTOS E UM {!}
+    letra++
+}
+else if (letra == 302)
+{
+    SendInput, TREZENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 303)
+{
+    SendInput, TREZENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 304)
+{
+    SendInput, TREZENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 305)
+{
+    SendInput, TREZENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 306)
+{
+    SendInput, TREZENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 307)
+{
+    SendInput, TREZENTOS E SETE {!}
+    letra++
+}
+else if (letra == 308)
+{
+    SendInput, TREZENTOS E OITO {!}
+    letra++
+}
+else if (letra == 309)
+{
+    SendInput, TREZENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 310)
+{
+    SendInput, TREZENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 311)
+{
+    SendInput, TREZENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 312)
+{
+    SendInput, TREZENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 313)
+{
+    SendInput, TREZENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 314)
+{
+    SendInput, TREZENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 315)
+{
+    SendInput, TREZENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 316)
+{
+    SendInput, TREZENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 317)
+{
+    SendInput, TREZENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 318)
+{
+    SendInput, TREZENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 319)
+{
+    SendInput, TREZENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 320)
+{
+    SendInput, TREZENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 321)
+{
+    SendInput, TREZENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 322)
+{
+    SendInput, TREZENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 323)
+{
+    SendInput, TREZENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 324)
+{
+    SendInput, TREZENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 325)
+{
+    SendInput, TREZENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 326)
+{
+    SendInput, TREZENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 327)
+{
+    SendInput, TREZENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 328)
+{
+    SendInput, TREZENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 329)
+{
+    SendInput, TREZENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 330)
+{
+    SendInput, TREZENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 331)
+{
+    SendInput, TREZENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 332)
+{
+    SendInput, TREZENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 333)
+{
+    SendInput, TREZENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 334)
+{
+    SendInput, TREZENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 335)
+{
+    SendInput, TREZENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 336)
+{
+    SendInput, TREZENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 337)
+{
+    SendInput, TREZENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 338)
+{
+    SendInput, TREZENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 339)
+{
+    SendInput, TREZENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 340)
+{
+    SendInput, TREZENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 341)
+{
+    SendInput, TREZENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 342)
+{
+    SendInput, TREZENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 343)
+{
+    SendInput, TREZENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 344)
+{
+    SendInput, TREZENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 345)
+{
+    SendInput, TREZENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 346)
+{
+    SendInput, TREZENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 347)
+{
+    SendInput, TREZENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 348)
+{
+    SendInput, TREZENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 349)
+{
+    SendInput, TREZENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 350)
+{
+    SendInput, TREZENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 351)
+{
+    SendInput, TREZENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 352)
+{
+    SendInput, TREZENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 353)
+{
+    SendInput, TREZENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 354)
+{
+    SendInput, TREZENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 355)
+{
+    SendInput, TREZENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 356)
+{
+    SendInput, TREZENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 357)
+{
+    SendInput, TREZENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 358)
+{
+    SendInput, TREZENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 359)
+{
+    SendInput, TREZENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 360)
+{
+    SendInput, TREZENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 361)
+{
+    SendInput, TREZENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 362)
+{
+    SendInput, TREZENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 363)
+{
+    SendInput, TREZENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 364)
+{
+    SendInput, TREZENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 365)
+{
+    SendInput, TREZENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 366)
+{
+    SendInput, TREZENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 367)
+{
+    SendInput, TREZENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 368)
+{
+    SendInput, TREZENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 369)
+{
+    SendInput, TREZENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 370)
+{
+    SendInput, TREZENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 371)
+{
+    SendInput, TREZENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 372)
+{
+    SendInput, TREZENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 373)
+{
+    SendInput, TREZENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 374)
+{
+    SendInput, TREZENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 375)
+{
+    SendInput, TREZENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 376)
+{
+    SendInput, TREZENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 377)
+{
+    SendInput, TREZENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 378)
+{
+    SendInput, TREZENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 379)
+{
+    SendInput, TREZENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 380)
+{
+    SendInput, TREZENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 381)
+{
+    SendInput, TREZENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 382)
+{
+    SendInput, TREZENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 383)
+{
+    SendInput, TREZENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 384)
+{
+    SendInput, TREZENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 385)
+{
+    SendInput, TREZENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 386)
+{
+    SendInput, TREZENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 387)
+{
+    SendInput, TREZENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 388)
+{
+    SendInput, TREZENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 389)
+{
+    SendInput, TREZENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 390)
+{
+    SendInput, TREZENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 391)
+{
+    SendInput, TREZENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 392)
+{
+    SendInput, TREZENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 393)
+{
+    SendInput, TREZENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 394)
+{
+    SendInput, TREZENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 395)
+{
+    SendInput, TREZENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 396)
+{
+    SendInput, TREZENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 397)
+{
+    SendInput, TREZENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 398)
+{
+    SendInput, TREZENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 399)
+{
+    SendInput, TREZENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 400)
+{
+    SendInput, QUATROCENTOS {!}
+    letra++
+}
+else if (letra == 401)
+{
+    SendInput, QUATROCENTOS E UM {!}
+    letra++
+}
+else if (letra == 402)
+{
+    SendInput, QUATROCENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 403)
+{
+    SendInput, QUATROCENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 404)
+{
+    SendInput, QUATROCENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 405)
+{
+    SendInput, QUATROCENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 406)
+{
+    SendInput, QUATROCENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 407)
+{
+    SendInput, QUATROCENTOS E SETE {!}
+    letra++
+}
+else if (letra == 408)
+{
+    SendInput, QUATROCENTOS E OITO {!}
+    letra++
+}
+else if (letra == 409)
+{
+    SendInput, QUATROCENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 410)
+{
+    SendInput, QUATROCENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 411)
+{
+    SendInput, QUATROCENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 412)
+{
+    SendInput, QUATROCENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 413)
+{
+    SendInput, QUATROCENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 414)
+{
+    SendInput, QUATROCENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 415)
+{
+    SendInput, QUATROCENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 416)
+{
+    SendInput, QUATROCENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 417)
+{
+    SendInput, QUATROCENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 418)
+{
+    SendInput, QUATROCENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 419)
+{
+    SendInput, QUATROCENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 420)
+{
+    SendInput, QUATROCENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 421)
+{
+    SendInput, QUATROCENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 422)
+{
+    SendInput, QUATROCENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 423)
+{
+    SendInput, QUATROCENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 424)
+{
+    SendInput, QUATROCENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 425)
+{
+    SendInput, QUATROCENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 426)
+{
+    SendInput, QUATROCENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 427)
+{
+    SendInput, QUATROCENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 428)
+{
+    SendInput, QUATROCENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 429)
+{
+    SendInput, QUATROCENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 430)
+{
+    SendInput, QUATROCENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 431)
+{
+    SendInput, QUATROCENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 432)
+{
+    SendInput, QUATROCENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 433)
+{
+    SendInput, QUATROCENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 434)
+{
+    SendInput, QUATROCENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 435)
+{
+    SendInput, QUATROCENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 436)
+{
+    SendInput, QUATROCENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 437)
+{
+    SendInput, QUATROCENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 438)
+{
+    SendInput, QUATROCENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 439)
+{
+    SendInput, QUATROCENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 440)
+{
+    SendInput, QUATROCENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 441)
+{
+    SendInput, QUATROCENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 442)
+{
+    SendInput, QUATROCENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 443)
+{
+    SendInput, QUATROCENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 444)
+{
+    SendInput, QUATROCENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 445)
+{
+    SendInput, QUATROCENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 446)
+{
+    SendInput, QUATROCENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 447)
+{
+    SendInput, QUATROCENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 448)
+{
+    SendInput, QUATROCENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 449)
+{
+    SendInput, QUATROCENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 450)
+{
+    SendInput, QUATROCENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 451)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 452)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 453)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 454)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 455)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 456)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 457)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 458)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 459)
+{
+    SendInput, QUATROCENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 460)
+{
+    SendInput, QUATROCENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 461)
+{
+    SendInput, QUATROCENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 462)
+{
+    SendInput, QUATROCENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 463)
+{
+    SendInput, QUATROCENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 464)
+{
+    SendInput, QUATROCENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 465)
+{
+    SendInput, QUATROCENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 466)
+{
+    SendInput, QUATROCENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 467)
+{
+    SendInput, QUATROCENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 468)
+{
+    SendInput, QUATROCENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 469)
+{
+    SendInput, QUATROCENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 470)
+{
+    SendInput, QUATROCENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 471)
+{
+    SendInput, QUATROCENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 472)
+{
+    SendInput, QUATROCENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 473)
+{
+    SendInput, QUATROCENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 474)
+{
+    SendInput, QUATROCENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 475)
+{
+    SendInput, QUATROCENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 476)
+{
+    SendInput, QUATROCENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 477)
+{
+    SendInput, QUATROCENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 478)
+{
+    SendInput, QUATROCENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 479)
+{
+    SendInput, QUATROCENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 480)
+{
+    SendInput, QUATROCENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 481)
+{
+    SendInput, QUATROCENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 482)
+{
+    SendInput, QUATROCENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 483)
+{
+    SendInput, QUATROCENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 484)
+{
+    SendInput, QUATROCENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 485)
+{
+    SendInput, QUATROCENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 486)
+{
+    SendInput, QUATROCENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 487)
+{
+    SendInput, QUATROCENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 488)
+{
+    SendInput, QUATROCENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 489)
+{
+    SendInput, QUATROCENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 490)
+{
+    SendInput, QUATROCENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 491)
+{
+    SendInput, QUATROCENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 492)
+{
+    SendInput, QUATROCENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 493)
+{
+    SendInput, QUATROCENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 494)
+{
+    SendInput, QUATROCENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 495)
+{
+    SendInput, QUATROCENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 496)
+{
+    SendInput, QUATROCENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 497)
+{
+    SendInput, QUATROCENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 498)
+{
+    SendInput, QUATROCENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 499)
+{
+    SendInput, QUATROCENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 500)
+{
+    SendInput, QUINHENTOS {!}
+    letra++
+}
+else if (letra == 501)
+{
+    SendInput, QUINHENTOS E UM {!}
+    letra++
+}
+else if (letra == 502)
+{
+    SendInput, QUINHENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 503)
+{
+    SendInput, QUINHENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 504)
+{
+    SendInput, QUINHENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 505)
+{
+    SendInput, QUINHENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 506)
+{
+    SendInput, QUINHENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 507)
+{
+    SendInput, QUINHENTOS E SETE {!}
+    letra++
+}
+else if (letra == 508)
+{
+    SendInput, QUINHENTOS E OITO {!}
+    letra++
+}
+else if (letra == 509)
+{
+    SendInput, QUINHENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 510)
+{
+    SendInput, QUINHENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 511)
+{
+    SendInput, QUINHENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 512)
+{
+    SendInput, QUINHENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 513)
+{
+    SendInput, QUINHENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 514)
+{
+    SendInput, QUINHENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 515)
+{
+    SendInput, QUINHENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 516)
+{
+    SendInput, QUINHENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 517)
+{
+    SendInput, QUINHENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 518)
+{
+    SendInput, QUINHENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 519)
+{
+    SendInput, QUINHENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 520)
+{
+    SendInput, QUINHENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 521)
+{
+    SendInput, QUINHENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 522)
+{
+    SendInput, QUINHENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 523)
+{
+    SendInput, QUINHENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 524)
+{
+    SendInput, QUINHENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 525)
+{
+    SendInput, QUINHENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 526)
+{
+    SendInput, QUINHENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 527)
+{
+    SendInput, QUINHENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 528)
+{
+    SendInput, QUINHENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 529)
+{
+    SendInput, QUINHENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 530)
+{
+    SendInput, QUINHENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 531)
+{
+    SendInput, QUINHENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 532)
+{
+    SendInput, QUINHENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 533)
+{
+    SendInput, QUINHENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 534)
+{
+    SendInput, QUINHENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 535)
+{
+    SendInput, QUINHENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 536)
+{
+    SendInput, QUINHENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 537)
+{
+    SendInput, QUINHENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 538)
+{
+    SendInput, QUINHENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 539)
+{
+    SendInput, QUINHENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 540)
+{
+    SendInput, QUINHENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 541)
+{
+    SendInput, QUINHENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 542)
+{
+    SendInput, QUINHENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 543)
+{
+    SendInput, QUINHENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 544)
+{
+    SendInput, QUINHENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 545)
+{
+    SendInput, QUINHENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 546)
+{
+    SendInput, QUINHENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 547)
+{
+    SendInput, QUINHENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 548)
+{
+    SendInput, QUINHENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 549)
+{
+    SendInput, QUINHENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 550)
+{
+    SendInput, QUINHENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 551)
+{
+    SendInput, QUINHENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 552)
+{
+    SendInput, QUINHENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 553)
+{
+    SendInput, QUINHENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 554)
+{
+    SendInput, QUINHENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 555)
+{
+    SendInput, QUINHENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 556)
+{
+    SendInput, QUINHENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 557)
+{
+    SendInput, QUINHENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 558)
+{
+    SendInput, QUINHENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 559)
+{
+    SendInput, QUINHENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 560)
+{
+    SendInput, QUINHENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 561)
+{
+    SendInput, QUINHENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 562)
+{
+    SendInput, QUINHENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 563)
+{
+    SendInput, QUINHENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 564)
+{
+    SendInput, QUINHENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 565)
+{
+    SendInput, QUINHENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 566)
+{
+    SendInput, QUINHENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 567)
+{
+    SendInput, QUINHENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 568)
+{
+    SendInput, QUINHENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 569)
+{
+    SendInput, QUINHENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 570)
+{
+    SendInput, QUINHENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 571)
+{
+    SendInput, QUINHENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 572)
+{
+    SendInput, QUINHENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 573)
+{
+    SendInput, QUINHENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 574)
+{
+    SendInput, QUINHENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 575)
+{
+    SendInput, QUINHENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 576)
+{
+    SendInput, QUINHENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 577)
+{
+    SendInput, QUINHENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 578)
+{
+    SendInput, QUINHENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 579)
+{
+    SendInput, QUINHENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 580)
+{
+    SendInput, QUINHENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 581)
+{
+    SendInput, QUINHENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 582)
+{
+    SendInput, QUINHENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 583)
+{
+    SendInput, QUINHENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 584)
+{
+    SendInput, QUINHENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 585)
+{
+    SendInput, QUINHENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 586)
+{
+    SendInput, QUINHENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 587)
+{
+    SendInput, QUINHENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 588)
+{
+    SendInput, QUINHENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 589)
+{
+    SendInput, QUINHENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 590)
+{
+    SendInput, QUINHENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 591)
+{
+    SendInput, QUINHENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 592)
+{
+    SendInput, QUINHENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 593)
+{
+    SendInput, QUINHENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 594)
+{
+    SendInput, QUINHENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 595)
+{
+    SendInput, QUINHENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 596)
+{
+    SendInput, QUINHENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 597)
+{
+    SendInput, QUINHENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 598)
+{
+    SendInput, QUINHENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 599)
+{
+    SendInput, QUINHENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 600)
+{
+    SendInput, SEISCENTOS {!}
+    letra++
+}
+else if (letra == 601)
+{
+    SendInput, SEISCENTOS E UM {!}
+    letra++
+}
+else if (letra == 602)
+{
+    SendInput, SEISCENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 603)
+{
+    SendInput, SEISCENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 604)
+{
+    SendInput, SEISCENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 605)
+{
+    SendInput, SEISCENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 606)
+{
+    SendInput, SEISCENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 607)
+{
+    SendInput, SEISCENTOS E SETE {!}
+    letra++
+}
+else if (letra == 608)
+{
+    SendInput, SEISCENTOS E OITO {!}
+    letra++
+}
+else if (letra == 609)
+{
+    SendInput, SEISCENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 610)
+{
+    SendInput, SEISCENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 611)
+{
+    SendInput, SEISCENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 612)
+{
+    SendInput, SEISCENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 613)
+{
+    SendInput, SEISCENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 614)
+{
+    SendInput, SEISCENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 615)
+{
+    SendInput, SEISCENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 616)
+{
+    SendInput, SEISCENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 617)
+{
+    SendInput, SEISCENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 618)
+{
+    SendInput, SEISCENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 619)
+{
+    SendInput, SEISCENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 620)
+{
+    SendInput, SEISCENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 621)
+{
+    SendInput, SEISCENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 622)
+{
+    SendInput, SEISCENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 623)
+{
+    SendInput, SEISCENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 624)
+{
+    SendInput, SEISCENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 625)
+{
+    SendInput, SEISCENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 626)
+{
+    SendInput, SEISCENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 627)
+{
+    SendInput, SEISCENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 628)
+{
+    SendInput, SEISCENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 629)
+{
+    SendInput, SEISCENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 630)
+{
+    SendInput, SEISCENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 631)
+{
+    SendInput, SEISCENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 632)
+{
+    SendInput, SEISCENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 633)
+{
+    SendInput, SEISCENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 634)
+{
+    SendInput, SEISCENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 635)
+{
+    SendInput, SEISCENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 636)
+{
+    SendInput, SEISCENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 637)
+{
+    SendInput, SEISCENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 638)
+{
+    SendInput, SEISCENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 639)
+{
+    SendInput, SEISCENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 640)
+{
+    SendInput, SEISCENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 641)
+{
+    SendInput, SEISCENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 642)
+{
+    SendInput, SEISCENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 643)
+{
+    SendInput, SEISCENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 644)
+{
+    SendInput, SEISCENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 645)
+{
+    SendInput, SEISCENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 646)
+{
+    SendInput, SEISCENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 647)
+{
+    SendInput, SEISCENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 648)
+{
+    SendInput, SEISCENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 649)
+{
+    SendInput, SEISCENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 650)
+{
+    SendInput, SEISCENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 651)
+{
+    SendInput, SEISCENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 652)
+{
+    SendInput, SEISCENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 653)
+{
+    SendInput, SEISCENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 654)
+{
+    SendInput, SEISCENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 655)
+{
+    SendInput, SEISCENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 656)
+{
+    SendInput, SEISCENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 657)
+{
+    SendInput, SEISCENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 658)
+{
+    SendInput, SEISCENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 659)
+{
+    SendInput, SEISCENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 660)
+{
+    SendInput, SEISCENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 661)
+{
+    SendInput, SEISCENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 662)
+{
+    SendInput, SEISCENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 663)
+{
+    SendInput, SEISCENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 664)
+{
+    SendInput, SEISCENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 665)
+{
+    SendInput, SEISCENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 666)
+{
+    SendInput, SEISCENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 667)
+{
+    SendInput, SEISCENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 668)
+{
+    SendInput, SEISCENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 669)
+{
+    SendInput, SEISCENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 670)
+{
+    SendInput, SEISCENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 671)
+{
+    SendInput, SEISCENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 672)
+{
+    SendInput, SEISCENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 673)
+{
+    SendInput, SEISCENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 674)
+{
+    SendInput, SEISCENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 675)
+{
+    SendInput, SEISCENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 676)
+{
+    SendInput, SEISCENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 677)
+{
+    SendInput, SEISCENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 678)
+{
+    SendInput, SEISCENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 679)
+{
+    SendInput, SEISCENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 680)
+{
+    SendInput, SEISCENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 681)
+{
+    SendInput, SEISCENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 682)
+{
+    SendInput, SEISCENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 683)
+{
+    SendInput, SEISCENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 684)
+{
+    SendInput, SEISCENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 685)
+{
+    SendInput, SEISCENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 686)
+{
+    SendInput, SEISCENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 687)
+{
+    SendInput, SEISCENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 688)
+{
+    SendInput, SEISCENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 689)
+{
+    SendInput, SEISCENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 690)
+{
+    SendInput, SEISCENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 691)
+{
+    SendInput, SEISCENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 692)
+{
+    SendInput, SEISCENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 693)
+{
+    SendInput, SEISCENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 694)
+{
+    SendInput, SEISCENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 695)
+{
+    SendInput, SEISCENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 696)
+{
+    SendInput, SEISCENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 697)
+{
+    SendInput, SEISCENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 698)
+{
+    SendInput, SEISCENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 699)
+{
+    SendInput, SEISCENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 700)
+{
+    SendInput, SETECENTOS {!}
+    letra++
+}
+else if (letra == 701)
+{
+    SendInput, SETECENTOS E UM {!}
+    letra++
+}
+else if (letra == 702)
+{
+    SendInput, SETECENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 703)
+{
+    SendInput, SETECENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 704)
+{
+    SendInput, SETECENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 705)
+{
+    SendInput, SETECENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 706)
+{
+    SendInput, SETECENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 707)
+{
+    SendInput, SETECENTOS E SETE {!}
+    letra++
+}
+else if (letra == 708)
+{
+    SendInput, SETECENTOS E OITO {!}
+    letra++
+}
+else if (letra == 709)
+{
+    SendInput, SETECENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 710)
+{
+    SendInput, SETECENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 711)
+{
+    SendInput, SETECENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 712)
+{
+    SendInput, SETECENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 713)
+{
+    SendInput, SETECENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 714)
+{
+    SendInput, SETECENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 715)
+{
+    SendInput, SETECENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 716)
+{
+    SendInput, SETECENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 717)
+{
+    SendInput, SETECENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 718)
+{
+    SendInput, SETECENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 719)
+{
+    SendInput, SETECENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 720)
+{
+    SendInput, SETECENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 721)
+{
+    SendInput, SETECENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 722)
+{
+    SendInput, SETECENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 723)
+{
+    SendInput, SETECENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 724)
+{
+    SendInput, SETECENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 725)
+{
+    SendInput, SETECENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 726)
+{
+    SendInput, SETECENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 727)
+{
+    SendInput, SETECENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 728)
+{
+    SendInput, SETECENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 729)
+{
+    SendInput, SETECENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 730)
+{
+    SendInput, SETECENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 731)
+{
+    SendInput, SETECENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 732)
+{
+    SendInput, SETECENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 733)
+{
+    SendInput, SETECENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 734)
+{
+    SendInput, SETECENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 735)
+{
+    SendInput, SETECENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 736)
+{
+    SendInput, SETECENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 737)
+{
+    SendInput, SETECENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 738)
+{
+    SendInput, SETECENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 739)
+{
+    SendInput, SETECENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 740)
+{
+    SendInput, SETECENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 741)
+{
+    SendInput, SETECENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 742)
+{
+    SendInput, SETECENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 743)
+{
+    SendInput, SETECENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 744)
+{
+    SendInput, SETECENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 745)
+{
+    SendInput, SETECENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 746)
+{
+    SendInput, SETECENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 747)
+{
+    SendInput, SETECENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 748)
+{
+    SendInput, SETECENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 749)
+{
+    SendInput, SETECENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 750)
+{
+    SendInput, SETECENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 751)
+{
+    SendInput, SETECENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 752)
+{
+    SendInput, SETECENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 753)
+{
+    SendInput, SETECENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 754)
+{
+    SendInput, SETECENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 755)
+{
+    SendInput, SETECENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 756)
+{
+    SendInput, SETECENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 757)
+{
+    SendInput, SETECENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 758)
+{
+    SendInput, SETECENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 759)
+{
+    SendInput, SETECENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 760)
+{
+    SendInput, SETECENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 761)
+{
+    SendInput, SETECENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 762)
+{
+    SendInput, SETECENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 763)
+{
+    SendInput, SETECENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 764)
+{
+    SendInput, SETECENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 765)
+{
+    SendInput, SETECENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 766)
+{
+    SendInput, SETECENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 767)
+{
+    SendInput, SETECENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 768)
+{
+    SendInput, SETECENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 769)
+{
+    SendInput, SETECENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 770)
+{
+    SendInput, SETECENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 771)
+{
+    SendInput, SETECENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 772)
+{
+    SendInput, SETECENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 773)
+{
+    SendInput, SETECENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 774)
+{
+    SendInput, SETECENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 775)
+{
+    SendInput, SETECENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 776)
+{
+    SendInput, SETECENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 777)
+{
+    SendInput, SETECENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 778)
+{
+    SendInput, SETECENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 779)
+{
+    SendInput, SETECENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 780)
+{
+    SendInput, SETECENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 781)
+{
+    SendInput, SETECENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 782)
+{
+    SendInput, SETECENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 783)
+{
+    SendInput, SETECENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 784)
+{
+    SendInput, SETECENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 785)
+{
+    SendInput, SETECENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 786)
+{
+    SendInput, SETECENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 787)
+{
+    SendInput, SETECENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 788)
+{
+    SendInput, SETECENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 789)
+{
+    SendInput, SETECENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 790)
+{
+    SendInput, SETECENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 791)
+{
+    SendInput, SETECENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 792)
+{
+    SendInput, SETECENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 793)
+{
+    SendInput, SETECENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 794)
+{
+    SendInput, SETECENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 795)
+{
+    SendInput, SETECENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 796)
+{
+    SendInput, SETECENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 797)
+{
+    SendInput, SETECENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 798)
+{
+    SendInput, SETECENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 799)
+{
+    SendInput, SETECENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 800)
+{
+    SendInput, OITOCENTOS {!}
+    letra++
+}
+else if (letra == 801)
+{
+    SendInput, OITOCENTOS E UM {!}
+    letra++
+}
+else if (letra == 802)
+{
+    SendInput, OITOCENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 803)
+{
+    SendInput, OITOCENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 804)
+{
+    SendInput, OITOCENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 805)
+{
+    SendInput, OITOCENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 806)
+{
+    SendInput, OITOCENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 807)
+{
+    SendInput, OITOCENTOS E SETE {!}
+    letra++
+}
+else if (letra == 808)
+{
+    SendInput, OITOCENTOS E OITO {!}
+    letra++
+}
+else if (letra == 809)
+{
+    SendInput, OITOCENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 810)
+{
+    SendInput, OITOCENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 811)
+{
+    SendInput, OITOCENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 812)
+{
+    SendInput, OITOCENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 813)
+{
+    SendInput, OITOCENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 814)
+{
+    SendInput, OITOCENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 815)
+{
+    SendInput, OITOCENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 816)
+{
+    SendInput, OITOCENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 817)
+{
+    SendInput, OITOCENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 818)
+{
+    SendInput, OITOCENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 819)
+{
+    SendInput, OITOCENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 820)
+{
+    SendInput, OITOCENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 821)
+{
+    SendInput, OITOCENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 822)
+{
+    SendInput, OITOCENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 823)
+{
+    SendInput, OITOCENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 824)
+{
+    SendInput, OITOCENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 825)
+{
+    SendInput, OITOCENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 826)
+{
+    SendInput, OITOCENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 827)
+{
+    SendInput, OITOCENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 828)
+{
+    SendInput, OITOCENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 829)
+{
+    SendInput, OITOCENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 830)
+{
+    SendInput, OITOCENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 831)
+{
+    SendInput, OITOCENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 832)
+{
+    SendInput, OITOCENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 833)
+{
+    SendInput, OITOCENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 834)
+{
+    SendInput, OITOCENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 835)
+{
+    SendInput, OITOCENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 836)
+{
+    SendInput, OITOCENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 837)
+{
+    SendInput, OITOCENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 838)
+{
+    SendInput, OITOCENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 839)
+{
+    SendInput, OITOCENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 840)
+{
+    SendInput, OITOCENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 841)
+{
+    SendInput, OITOCENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 842)
+{
+    SendInput, OITOCENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 843)
+{
+    SendInput, OITOCENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 844)
+{
+    SendInput, OITOCENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 845)
+{
+    SendInput, OITOCENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 846)
+{
+    SendInput, OITOCENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 847)
+{
+    SendInput, OITOCENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 848)
+{
+    SendInput, OITOCENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 849)
+{
+    SendInput, OITOCENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 850)
+{
+    SendInput, OITOCENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 851)
+{
+    SendInput, OITOCENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 852)
+{
+    SendInput, OITOCENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 853)
+{
+    SendInput, OITOCENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 854)
+{
+    SendInput, OITOCENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 855)
+{
+    SendInput, OITOCENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 856)
+{
+    SendInput, OITOCENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 857)
+{
+    SendInput, OITOCENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 858)
+{
+    SendInput, OITOCENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 859)
+{
+    SendInput, OITOCENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 860)
+{
+    SendInput, OITOCENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 861)
+{
+    SendInput, OITOCENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 862)
+{
+    SendInput, OITOCENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 863)
+{
+    SendInput, OITOCENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 864)
+{
+    SendInput, OITOCENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 865)
+{
+    SendInput, OITOCENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 866)
+{
+    SendInput, OITOCENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 867)
+{
+    SendInput, OITOCENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 868)
+{
+    SendInput, OITOCENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 869)
+{
+    SendInput, OITOCENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 870)
+{
+    SendInput, OITOCENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 871)
+{
+    SendInput, OITOCENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 872)
+{
+    SendInput, OITOCENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 873)
+{
+    SendInput, OITOCENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 874)
+{
+    SendInput, OITOCENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 875)
+{
+    SendInput, OITOCENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 876)
+{
+    SendInput, OITOCENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 877)
+{
+    SendInput, OITOCENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 878)
+{
+    SendInput, OITOCENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 879)
+{
+    SendInput, OITOCENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 880)
+{
+    SendInput, OITOCENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 881)
+{
+    SendInput, OITOCENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 882)
+{
+    SendInput, OITOCENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 883)
+{
+    SendInput, OITOCENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 884)
+{
+    SendInput, OITOCENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 885)
+{
+    SendInput, OITOCENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 886)
+{
+    SendInput, OITOCENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 887)
+{
+    SendInput, OITOCENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 888)
+{
+    SendInput, OITOCENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 889)
+{
+    SendInput, OITOCENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 890)
+{
+    SendInput, OITOCENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 891)
+{
+    SendInput, OITOCENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 892)
+{
+    SendInput, OITOCENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 893)
+{
+    SendInput, OITOCENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 894)
+{
+    SendInput, OITOCENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 895)
+{
+    SendInput, OITOCENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 896)
+{
+    SendInput, OITOCENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 897)
+{
+    SendInput, OITOCENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 898)
+{
+    SendInput, OITOCENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 899)
+{
+    SendInput, OITOCENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 900)
+{
+    SendInput, NOVECENTOS {!}
+    letra++
+}
+else if (letra == 901)
+{
+    SendInput, NOVECENTOS E UM {!}
+    letra++
+}
+else if (letra == 902)
+{
+    SendInput, NOVECENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 903)
+{
+    SendInput, NOVECENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 904)
+{
+    SendInput, NOVECENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 905)
+{
+    SendInput, NOVECENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 906)
+{
+    SendInput, NOVECENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 907)
+{
+    SendInput, NOVECENTOS E SETE {!}
+    letra++
+}
+else if (letra == 908)
+{
+    SendInput, NOVECENTOS E OITO {!}
+    letra++
+}
+else if (letra == 909)
+{
+    SendInput, NOVECENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 910)
+{
+    SendInput, NOVECENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 911)
+{
+    SendInput, NOVECENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 912)
+{
+    SendInput, NOVECENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 913)
+{
+    SendInput, NOVECENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 914)
+{
+    SendInput, NOVECENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 915)
+{
+    SendInput, NOVECENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 916)
+{
+    SendInput, NOVECENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 917)
+{
+    SendInput, NOVECENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 918)
+{
+    SendInput, NOVECENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 919)
+{
+    SendInput, NOVECENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 920)
+{
+    SendInput, NOVECENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 921)
+{
+    SendInput, NOVECENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 922)
+{
+    SendInput, NOVECENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 923)
+{
+    SendInput, NOVECENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 924)
+{
+    SendInput, NOVECENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 925)
+{
+    SendInput, NOVECENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 926)
+{
+    SendInput, NOVECENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 927)
+{
+    SendInput, NOVECENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 928)
+{
+    SendInput, NOVECENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 929)
+{
+    SendInput, NOVECENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 930)
+{
+    SendInput, NOVECENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 931)
+{
+    SendInput, NOVECENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 932)
+{
+    SendInput, NOVECENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 933)
+{
+    SendInput, NOVECENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 934)
+{
+    SendInput, NOVECENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 935)
+{
+    SendInput, NOVECENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 936)
+{
+    SendInput, NOVECENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 937)
+{
+    SendInput, NOVECENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 938)
+{
+    SendInput, NOVECENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 939)
+{
+    SendInput, NOVECENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 940)
+{
+    SendInput, NOVECENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 941)
+{
+    SendInput, NOVECENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 942)
+{
+    SendInput, NOVECENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 943)
+{
+    SendInput, NOVECENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 944)
+{
+    SendInput, NOVECENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 945)
+{
+    SendInput, NOVECENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 946)
+{
+    SendInput, NOVECENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 947)
+{
+    SendInput, NOVECENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 948)
+{
+    SendInput, NOVECENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 949)
+{
+    SendInput, NOVECENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 950)
+{
+    SendInput, NOVECENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 951)
+{
+    SendInput, NOVECENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 952)
+{
+    SendInput, NOVECENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 953)
+{
+    SendInput, NOVECENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 954)
+{
+    SendInput, NOVECENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 955)
+{
+    SendInput, NOVECENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 956)
+{
+    SendInput, NOVECENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 957)
+{
+    SendInput, NOVECENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 958)
+{
+    SendInput, NOVECENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 959)
+{
+    SendInput, NOVECENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 960)
+{
+    SendInput, NOVECENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 961)
+{
+    SendInput, NOVECENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 962)
+{
+    SendInput, NOVECENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 963)
+{
+    SendInput, NOVECENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 964)
+{
+    SendInput, NOVECENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 965)
+{
+    SendInput, NOVECENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 966)
+{
+    SendInput, NOVECENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 967)
+{
+    SendInput, NOVECENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 968)
+{
+    SendInput, NOVECENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 969)
+{
+    SendInput, NOVECENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 970)
+{
+    SendInput, NOVECENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 971)
+{
+    SendInput, NOVECENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 972)
+{
+    SendInput, NOVECENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 973)
+{
+    SendInput, NOVECENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 974)
+{
+    SendInput, NOVECENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 975)
+{
+    SendInput, NOVECENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 976)
+{
+    SendInput, NOVECENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 977)
+{
+    SendInput, NOVECENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 978)
+{
+    SendInput, NOVECENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 979)
+{
+    SendInput, NOVECENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 980)
+{
+    SendInput, NOVECENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 981)
+{
+    SendInput, NOVECENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 982)
+{
+    SendInput, NOVECENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 983)
+{
+    SendInput, NOVECENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 984)
+{
+    SendInput, NOVECENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 985)
+{
+    SendInput, NOVECENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 986)
+{
+    SendInput, NOVECENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 987)
+{
+    SendInput, NOVECENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 988)
+{
+    SendInput, NOVECENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 989)
+{
+    SendInput, NOVECENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 990)
+{
+    SendInput, NOVECENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 991)
+{
+    SendInput, NOVECENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 992)
+{
+    SendInput, NOVECENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 993)
+{
+    SendInput, NOVECENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 994)
+{
+    SendInput, NOVECENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 995)
+{
+    SendInput, NOVECENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 996)
+{
+    SendInput, NOVECENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 997)
+{
+    SendInput, NOVECENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 998)
+{
+    SendInput, NOVECENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 999)
+{
+    SendInput, NOVECENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1000)
+{
+    SendInput, MIL {!}
+    letra++
+}
+else if (letra == 1001)
+{
+    SendInput, MIL E UM {!}
+    letra++
+}
+else if (letra == 1002)
+{
+    SendInput, MIL E DOIS {!}
+    letra++
+}
+else if (letra == 1003)
+{
+    SendInput, MIL E TRÊS {!}
+    letra++
+}
+else if (letra == 1004)
+{
+    SendInput, MIL E QUATRO {!}
+    letra++
+}
+else if (letra == 1005)
+{
+    SendInput, MIL E CINCO {!}
+    letra++
+}
+else if (letra == 1006)
+{
+    SendInput, MIL E SEIS {!}
+    letra++
+}
+else if (letra == 1007)
+{
+    SendInput, MIL E SETE {!}
+    letra++
+}
+else if (letra == 1008)
+{
+    SendInput, MIL E OITO {!}
+    letra++
+}
+else if (letra == 1009)
+{
+    SendInput, MIL E NOVE {!}
+    letra++
+}
+else if (letra == 1010)
+{
+    SendInput, MIL E DEZ {!}
+    letra++
+}
+else if (letra == 1011)
+{
+    SendInput, MIL E ONZE {!}
+    letra++
+}
+else if (letra == 1012)
+{
+    SendInput, MIL E DOZE {!}
+    letra++
+}
+else if (letra == 1013)
+{
+    SendInput, MIL E TREZE {!}
+    letra++
+}
+else if (letra == 1014)
+{
+    SendInput, MIL E QUATORZE {!}
+    letra++
+}
+else if (letra == 1015)
+{
+    SendInput, MIL E QUINZE {!}
+    letra++
+}
+else if (letra == 1016)
+{
+    SendInput, MIL E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1017)
+{
+    SendInput, MIL E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1018)
+{
+    SendInput, MIL E DEZOITO {!}
+    letra++
+}
+else if (letra == 1019)
+{
+    SendInput, MIL E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1020)
+{
+    SendInput, MIL E VINTE {!}
+    letra++
+}
+else if (letra == 1021)
+{
+    SendInput, MIL E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1022)
+{
+    SendInput, MIL E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1023)
+{
+    SendInput, MIL E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1024)
+{
+    SendInput, MIL E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1025)
+{
+    SendInput, MIL E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1026)
+{
+    SendInput, MIL E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1027)
+{
+    SendInput, MIL E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1028)
+{
+    SendInput, MIL E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1029)
+{
+    SendInput, MIL E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1030)
+{
+    SendInput, MIL E TRINTA {!}
+    letra++
+}
+else if (letra == 1031)
+{
+    SendInput, MIL E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1032)
+{
+    SendInput, MIL E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1033)
+{
+    SendInput, MIL E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1034)
+{
+    SendInput, MIL E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1035)
+{
+    SendInput, MIL E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1036)
+{
+    SendInput, MIL E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1037)
+{
+    SendInput, MIL E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1038)
+{
+    SendInput, MIL E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1039)
+{
+    SendInput, MIL E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1040)
+{
+    SendInput, MIL E QUARENTA {!}
+    letra++
+}
+else if (letra == 1041)
+{
+    SendInput, MIL E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1042)
+{
+    SendInput, MIL E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1043)
+{
+    SendInput, MIL E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1044)
+{
+    SendInput, MIL E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1045)
+{
+    SendInput, MIL E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1046)
+{
+    SendInput, MIL E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1047)
+{
+    SendInput, MIL E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1048)
+{
+    SendInput, MIL E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1049)
+{
+    SendInput, MIL E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1050)
+{
+    SendInput, MIL E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1051)
+{
+    SendInput, MIL E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1052)
+{
+    SendInput, MIL E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1053)
+{
+    SendInput, MIL E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1054)
+{
+    SendInput, MIL E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1055)
+{
+    SendInput, MIL E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1056)
+{
+    SendInput, MIL E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1057)
+{
+    SendInput, MIL E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1058)
+{
+    SendInput, MIL E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1059)
+{
+    SendInput, MIL E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1060)
+{
+    SendInput, MIL E SESSENTA {!}
+    letra++
+}
+else if (letra == 1061)
+{
+    SendInput, MIL E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1062)
+{
+    SendInput, MIL E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1063)
+{
+    SendInput, MIL E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1064)
+{
+    SendInput, MIL E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1065)
+{
+    SendInput, MIL E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1066)
+{
+    SendInput, MIL E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1067)
+{
+    SendInput, MIL E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1068)
+{
+    SendInput, MIL E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1069)
+{
+    SendInput, MIL E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1070)
+{
+    SendInput, MIL E SETENTA {!}
+    letra++
+}
+else if (letra == 1071)
+{
+    SendInput, MIL E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1072)
+{
+    SendInput, MIL E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1073)
+{
+    SendInput, MIL E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1074)
+{
+    SendInput, MIL E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1075)
+{
+    SendInput, MIL E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1076)
+{
+    SendInput, MIL E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1077)
+{
+    SendInput, MIL E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1078)
+{
+    SendInput, MIL E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1079)
+{
+    SendInput, MIL E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1080)
+{
+    SendInput, MIL E OITENTA {!}
+    letra++
+}
+else if (letra == 1081)
+{
+    SendInput, MIL E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1082)
+{
+    SendInput, MIL E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1083)
+{
+    SendInput, MIL E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1084)
+{
+    SendInput, MIL E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1085)
+{
+    SendInput, MIL E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1086)
+{
+    SendInput, MIL E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1087)
+{
+    SendInput, MIL E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1088)
+{
+    SendInput, MIL E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1089)
+{
+    SendInput, MIL E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1090)
+{
+    SendInput, MIL E NOVENTA {!}
+    letra++
+}
+else if (letra == 1091)
+{
+    SendInput, MIL E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1092)
+{
+    SendInput, MIL E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1093)
+{
+    SendInput, MIL E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1094)
+{
+    SendInput, MIL E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1095)
+{
+    SendInput, MIL E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1096)
+{
+    SendInput, MIL E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1097)
+{
+    SendInput, MIL E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1098)
+{
+    SendInput, MIL E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1099)
+{
+    SendInput, MIL E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1100)
+{
+    SendInput, MIL E CEM {!}
+    letra++
+}
+else if (letra == 1101)
+{
+    SendInput, MIL CENTO E UM {!}
+    letra++
+}
+else if (letra == 1102)
+{
+    SendInput, MIL CENTO E DOIS {!}
+    letra++
+}
+else if (letra == 1103)
+{
+    SendInput, MIL CENTO E TRÊS {!}
+    letra++
+}
+else if (letra == 1104)
+{
+    SendInput, MIL CENTO E QUATRO {!}
+    letra++
+}
+else if (letra == 1105)
+{
+    SendInput, MIL CENTO E CINCO {!}
+    letra++
+}
+else if (letra == 1106)
+{
+    SendInput, MIL CENTO E SEIS {!}
+    letra++
+}
+else if (letra == 1107)
+{
+    SendInput, MIL CENTO E SETE {!}
+    letra++
+}
+else if (letra == 1108)
+{
+    SendInput, MIL CENTO E OITO {!}
+    letra++
+}
+else if (letra == 1109)
+{
+    SendInput, MIL CENTO E NOVE {!}
+    letra++
+}
+else if (letra == 1110)
+{
+    SendInput, MIL CENTO E DEZ {!}
+    letra++
+}
+else if (letra == 1111)
+{
+    SendInput, MIL CENTO E ONZE {!}
+    letra++
+}
+else if (letra == 1112)
+{
+    SendInput, MIL CENTO E DOZE {!}
+    letra++
+}
+else if (letra == 1113)
+{
+    SendInput, MIL CENTO E TREZE {!}
+    letra++
+}
+else if (letra == 1114)
+{
+    SendInput, MIL CENTO E QUATORZE {!}
+    letra++
+}
+else if (letra == 1115)
+{
+    SendInput, MIL CENTO E QUINZE {!}
+    letra++
+}
+else if (letra == 1116)
+{
+    SendInput, MIL CENTO E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1117)
+{
+    SendInput, MIL CENTO E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1118)
+{
+    SendInput, MIL CENTO E DEZOITO {!}
+    letra++
+}
+else if (letra == 1119)
+{
+    SendInput, MIL CENTO E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1120)
+{
+    SendInput, MIL CENTO E VINTE {!}
+    letra++
+}
+else if (letra == 1121)
+{
+    SendInput, MIL CENTO E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1122)
+{
+    SendInput, MIL CENTO E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1123)
+{
+    SendInput, MIL CENTO E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1124)
+{
+    SendInput, MIL CENTO E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1125)
+{
+    SendInput, MIL CENTO E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1126)
+{
+    SendInput, MIL CENTO E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1127)
+{
+    SendInput, MIL CENTO E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1128)
+{
+    SendInput, MIL CENTO E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1129)
+{
+    SendInput, MIL CENTO E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1130)
+{
+    SendInput, MIL CENTO E TRINTA {!}
+    letra++
+}
+else if (letra == 1131)
+{
+    SendInput, MIL CENTO E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1132)
+{
+    SendInput, MIL CENTO E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1133)
+{
+    SendInput, MIL CENTO E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1134)
+{
+    SendInput, MIL CENTO E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1135)
+{
+    SendInput, MIL CENTO E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1136)
+{
+    SendInput, MIL CENTO E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1137)
+{
+    SendInput, MIL CENTO E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1138)
+{
+    SendInput, MIL CENTO E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1139)
+{
+    SendInput, MIL CENTO E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1140)
+{
+    SendInput, MIL CENTO E QUARENTA {!}
+    letra++
+}
+else if (letra == 1141)
+{
+    SendInput, MIL CENTO E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1142)
+{
+    SendInput, MIL CENTO E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1143)
+{
+    SendInput, MIL CENTO E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1144)
+{
+    SendInput, MIL CENTO E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1145)
+{
+    SendInput, MIL CENTO E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1146)
+{
+    SendInput, MIL CENTO E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1147)
+{
+    SendInput, MIL CENTO E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1148)
+{
+    SendInput, MIL CENTO E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1149)
+{
+    SendInput, MIL CENTO E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1150)
+{
+    SendInput, MIL CENTO E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1151)
+{
+    SendInput, MIL CENTO E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1152)
+{
+    SendInput, MIL CENTO E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1153)
+{
+    SendInput, MIL CENTO E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1154)
+{
+    SendInput, MIL CENTO E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1155)
+{
+    SendInput, MIL CENTO E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1156)
+{
+    SendInput, MIL CENTO E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1157)
+{
+    SendInput, MIL CENTO E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1158)
+{
+    SendInput, MIL CENTO E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1159)
+{
+    SendInput, MIL CENTO E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1160)
+{
+    SendInput, MIL CENTO E SESSENTA {!}
+    letra++
+}
+else if (letra == 1161)
+{
+    SendInput, MIL CENTO E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1162)
+{
+    SendInput, MIL CENTO E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1163)
+{
+    SendInput, MIL CENTO E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1164)
+{
+    SendInput, MIL CENTO E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1165)
+{
+    SendInput, MIL CENTO E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1166)
+{
+    SendInput, MIL CENTO E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1167)
+{
+    SendInput, MIL CENTO E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1168)
+{
+    SendInput, MIL CENTO E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1169)
+{
+    SendInput, MIL CENTO E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1170)
+{
+    SendInput, MIL CENTO E SETENTA {!}
+    letra++
+}
+else if (letra == 1171)
+{
+    SendInput, MIL CENTO E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1172)
+{
+    SendInput, MIL CENTO E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1173)
+{
+    SendInput, MIL CENTO E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1174)
+{
+    SendInput, MIL CENTO E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1175)
+{
+    SendInput, MIL CENTO E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1176)
+{
+    SendInput, MIL CENTO E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1177)
+{
+    SendInput, MIL CENTO E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1178)
+{
+    SendInput, MIL CENTO E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1179)
+{
+    SendInput, MIL CENTO E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1180)
+{
+    SendInput, MIL CENTO E OITENTA {!}
+    letra++
+}
+else if (letra == 1181)
+{
+    SendInput, MIL CENTO E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1182)
+{
+    SendInput, MIL CENTO E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1183)
+{
+    SendInput, MIL CENTO E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1184)
+{
+    SendInput, MIL CENTO E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1185)
+{
+    SendInput, MIL CENTO E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1186)
+{
+    SendInput, MIL CENTO E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1187)
+{
+    SendInput, MIL CENTO E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1188)
+{
+    SendInput, MIL CENTO E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1189)
+{
+    SendInput, MIL CENTO E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1190)
+{
+    SendInput, MIL CENTO E NOVENTA {!}
+    letra++
+}
+else if (letra == 1191)
+{
+    SendInput, MIL CENTO E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1192)
+{
+    SendInput, MIL CENTO E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1193)
+{
+    SendInput, MIL CENTO E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1194)
+{
+    SendInput, MIL CENTO E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1195)
+{
+    SendInput, MIL CENTO E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1196)
+{
+    SendInput, MIL CENTO E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1197)
+{
+    SendInput, MIL CENTO E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1198)
+{
+    SendInput, MIL CENTO E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1199)
+{
+    SendInput, MIL CENTO E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1200)
+{
+    SendInput, MIL E DUZENTOS {!}
+    letra++
+}
+else if (letra == 1201)
+{
+    SendInput, MIL DUZENTOS E UM {!}
+    letra++
+}
+else if (letra == 1202)
+{
+    SendInput, MIL DUZENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1203)
+{
+    SendInput, MIL DUZENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1204)
+{
+    SendInput, MIL DUZENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1205)
+{
+    SendInput, MIL DUZENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1206)
+{
+    SendInput, MIL DUZENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1207)
+{
+    SendInput, MIL DUZENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1208)
+{
+    SendInput, MIL DUZENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1209)
+{
+    SendInput, MIL DUZENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1210)
+{
+    SendInput, MIL DUZENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1211)
+{
+    SendInput, MIL DUZENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1212)
+{
+    SendInput, MIL DUZENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1213)
+{
+    SendInput, MIL DUZENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1214)
+{
+    SendInput, MIL DUZENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1215)
+{
+    SendInput, MIL DUZENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1216)
+{
+    SendInput, MIL DUZENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1217)
+{
+    SendInput, MIL DUZENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1218)
+{
+    SendInput, MIL DUZENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1219)
+{
+    SendInput, MIL DUZENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1220)
+{
+    SendInput, MIL DUZENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1221)
+{
+    SendInput, MIL DUZENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1222)
+{
+    SendInput, MIL DUZENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1223)
+{
+    SendInput, MIL DUZENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1224)
+{
+    SendInput, MIL DUZENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1225)
+{
+    SendInput, MIL DUZENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1226)
+{
+    SendInput, MIL DUZENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1227)
+{
+    SendInput, MIL DUZENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1228)
+{
+    SendInput, MIL DUZENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1229)
+{
+    SendInput, MIL DUZENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1230)
+{
+    SendInput, MIL DUZENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1231)
+{
+    SendInput, MIL DUZENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1232)
+{
+    SendInput, MIL DUZENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1233)
+{
+    SendInput, MIL DUZENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1234)
+{
+    SendInput, MIL DUZENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1235)
+{
+    SendInput, MIL DUZENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1236)
+{
+    SendInput, MIL DUZENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1237)
+{
+    SendInput, MIL DUZENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1238)
+{
+    SendInput, MIL DUZENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1239)
+{
+    SendInput, MIL DUZENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1240)
+{
+    SendInput, MIL DUZENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1241)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1242)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1243)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1244)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1245)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1246)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1247)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1248)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1249)
+{
+    SendInput, MIL DUZENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1250)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1251)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1252)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1253)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1254)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1255)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1256)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1257)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1258)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1259)
+{
+    SendInput, MIL DUZENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1260)
+{
+    SendInput, MIL DUZENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1261)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1262)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1263)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1264)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1265)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1266)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1267)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1268)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1269)
+{
+    SendInput, MIL DUZENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1270)
+{
+    SendInput, MIL DUZENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1271)
+{
+    SendInput, MIL DUZENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1272)
+{
+    SendInput, MIL DUZENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1273)
+{
+    SendInput, MIL DUZENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1274)
+{
+    SendInput, MIL DUZENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1275)
+{
+    SendInput, MIL DUZENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1276)
+{
+    SendInput, MIL DUZENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1277)
+{
+    SendInput, MIL DUZENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1278)
+{
+    SendInput, MIL DUZENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1279)
+{
+    SendInput, MIL DUZENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1280)
+{
+    SendInput, MIL DUZENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1281)
+{
+    SendInput, MIL DUZENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1282)
+{
+    SendInput, MIL DUZENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1283)
+{
+    SendInput, MIL DUZENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1284)
+{
+    SendInput, MIL DUZENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1285)
+{
+    SendInput, MIL DUZENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1286)
+{
+    SendInput, MIL DUZENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1287)
+{
+    SendInput, MIL DUZENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1288)
+{
+    SendInput, MIL DUZENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1289)
+{
+    SendInput, MIL DUZENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1290)
+{
+    SendInput, MIL DUZENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1291)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1292)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1293)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1294)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1295)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1296)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1297)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1298)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1299)
+{
+    SendInput, MIL DUZENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1300)
+{
+    SendInput, MIL E TREZENTOS {!}
+    letra++
+}
+else if (letra == 1301)
+{
+    SendInput, MIL TREZENTOS E UM {!}
+    letra++
+}
+else if (letra == 1302)
+{
+    SendInput, MIL TREZENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1303)
+{
+    SendInput, MIL TREZENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1304)
+{
+    SendInput, MIL TREZENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1305)
+{
+    SendInput, MIL TREZENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1306)
+{
+    SendInput, MIL TREZENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1307)
+{
+    SendInput, MIL TREZENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1308)
+{
+    SendInput, MIL TREZENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1309)
+{
+    SendInput, MIL TREZENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1310)
+{
+    SendInput, MIL TREZENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1311)
+{
+    SendInput, MIL TREZENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1312)
+{
+    SendInput, MIL TREZENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1313)
+{
+    SendInput, MIL TREZENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1314)
+{
+    SendInput, MIL TREZENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1315)
+{
+    SendInput, MIL TREZENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1316)
+{
+    SendInput, MIL TREZENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1317)
+{
+    SendInput, MIL TREZENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1318)
+{
+    SendInput, MIL TREZENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1319)
+{
+    SendInput, MIL TREZENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1320)
+{
+    SendInput, MIL TREZENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1321)
+{
+    SendInput, MIL TREZENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1322)
+{
+    SendInput, MIL TREZENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1323)
+{
+    SendInput, MIL TREZENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1324)
+{
+    SendInput, MIL TREZENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1325)
+{
+    SendInput, MIL TREZENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1326)
+{
+    SendInput, MIL TREZENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1327)
+{
+    SendInput, MIL TREZENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1328)
+{
+    SendInput, MIL TREZENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1329)
+{
+    SendInput, MIL TREZENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1330)
+{
+    SendInput, MIL TREZENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1331)
+{
+    SendInput, MIL TREZENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1332)
+{
+    SendInput, MIL TREZENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1333)
+{
+    SendInput, MIL TREZENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1334)
+{
+    SendInput, MIL TREZENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1335)
+{
+    SendInput, MIL TREZENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1336)
+{
+    SendInput, MIL TREZENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1337)
+{
+    SendInput, MIL TREZENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1338)
+{
+    SendInput, MIL TREZENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1339)
+{
+    SendInput, MIL TREZENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1340)
+{
+    SendInput, MIL TREZENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1341)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1342)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1343)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1344)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1345)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1346)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1347)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1348)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1349)
+{
+    SendInput, MIL TREZENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1350)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1351)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1352)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1353)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1354)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1355)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1356)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1357)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1358)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1359)
+{
+    SendInput, MIL TREZENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1360)
+{
+    SendInput, MIL TREZENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1361)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1362)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1363)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1364)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1365)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1366)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1367)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1368)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1369)
+{
+    SendInput, MIL TREZENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1370)
+{
+    SendInput, MIL TREZENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1371)
+{
+    SendInput, MIL TREZENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1372)
+{
+    SendInput, MIL TREZENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1373)
+{
+    SendInput, TREZENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1374)
+{
+    SendInput, MIL TREZENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1375)
+{
+    SendInput, MIL TREZENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1376)
+{
+    SendInput, MIL TREZENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1377)
+{
+    SendInput, MIL TREZENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1378)
+{
+    SendInput, MIL TREZENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1379)
+{
+    SendInput, MIL TREZENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1380)
+{
+    SendInput, MIL TREZENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1381)
+{
+    SendInput, MIL TREZENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1382)
+{
+    SendInput, MIL TREZENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1383)
+{
+    SendInput, MIL TREZENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1384)
+{
+    SendInput, MIL TREZENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1385)
+{
+    SendInput, MIL TREZENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1386)
+{
+    SendInput, MIL TREZENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1387)
+{
+    SendInput, MIL TREZENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1388)
+{
+    SendInput, MIL TREZENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1389)
+{
+    SendInput, MIL TREZENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1390)
+{
+    SendInput, MIL TREZENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1391)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1392)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1393)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1394)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1395)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1396)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1397)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1398)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1399)
+{
+    SendInput, MIL TREZENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1400)
+{
+    SendInput, MIL E QUATROCENTOS {!}
+    letra++
+}
+else if (letra == 1401)
+{
+    SendInput, MIL QUATROCENTOS E UM {!}
+    letra++
+}
+else if (letra == 1402)
+{
+    SendInput, MIL QUATROCENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1403)
+{
+    SendInput, MIL QUATROCENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1404)
+{
+    SendInput, MIL QUATROCENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1405)
+{
+    SendInput, MIL QUATROCENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1406)
+{
+    SendInput, MIL QUATROCENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1407)
+{
+    SendInput, MIL QUATROCENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1408)
+{
+    SendInput, MIL QUATROCENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1409)
+{
+    SendInput, MIL QUATROCENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1410)
+{
+    SendInput, MIL QUATROCENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1411)
+{
+    SendInput, MIL QUATROCENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1412)
+{
+    SendInput, MIL QUATROCENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1413)
+{
+    SendInput, MIL QUATROCENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1414)
+{
+    SendInput, MIL QUATROCENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1415)
+{
+    SendInput, MIL QUATROCENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1416)
+{
+    SendInput, MIL QUATROCENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1417)
+{
+    SendInput, MIL QUATROCENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1418)
+{
+    SendInput, MIL QUATROCENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1419)
+{
+    SendInput, MIL QUATROCENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1420)
+{
+    SendInput, MIL QUATROCENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1421)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1422)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1423)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1424)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1425)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1426)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1427)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1428)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1429)
+{
+    SendInput, MIL QUATROCENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1430)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1431)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1432)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1433)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1434)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1435)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1436)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1437)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1438)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1439)
+{
+    SendInput, MIL QUATROCENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1440)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1441)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1442)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1443)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1444)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1445)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1446)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1447)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1448)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1449)
+{
+    SendInput, MIL QUATROCENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1450)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1451)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1452)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1453)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1454)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1455)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1456)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1457)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1458)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1459)
+{
+    SendInput, MIL QUATROCENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1460)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1461)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1462)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1463)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1464)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1465)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1466)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1467)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1468)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1469)
+{
+    SendInput, MIL QUATROCENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1470)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1471)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1472)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1473)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1474)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1475)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1476)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1477)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1478)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1479)
+{
+    SendInput, MIL QUATROCENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1480)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1481)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1482)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1483)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1484)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1485)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1486)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1487)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1488)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1489)
+{
+    SendInput, MIL QUATROCENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1490)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1491)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1492)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1493)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1494)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1495)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1496)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1497)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1498)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1499)
+{
+    SendInput, MIL QUATROCENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1500)
+{
+    SendInput, MIL E QUINHENTOS {!}
+    letra++
+}
+else if (letra == 1501)
+{
+    SendInput, MIL QUINHENTOS E UM {!}
+    letra++
+}
+else if (letra == 1502)
+{
+    SendInput, MIL QUINHENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1503)
+{
+    SendInput, MIL QUINHENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1504)
+{
+    SendInput, MIL QUINHENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1505)
+{
+    SendInput, MIL QUINHENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1506)
+{
+    SendInput, MIL QUINHENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1507)
+{
+    SendInput, MIL QUINHENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1508)
+{
+    SendInput, QUINHENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1509)
+{
+    SendInput, MIL QUINHENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1510)
+{
+    SendInput, MIL QUINHENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1511)
+{
+    SendInput, MIL QUINHENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1512)
+{
+    SendInput, MIL QUINHENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1513)
+{
+    SendInput, MIL QUINHENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1514)
+{
+    SendInput, MIL QUINHENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1515)
+{
+    SendInput, MIL QUINHENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1516)
+{
+    SendInput, MIL QUINHENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1517)
+{
+    SendInput, MIL QUINHENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1518)
+{
+    SendInput, MIL QUINHENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1519)
+{
+    SendInput, MIL QUINHENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1520)
+{
+    SendInput, MIL QUINHENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1521)
+{
+    SendInput, MIL QUINHENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1522)
+{
+    SendInput, MIL QUINHENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1523)
+{
+    SendInput, MIL QUINHENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1524)
+{
+    SendInput, MIL QUINHENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1525)
+{
+    SendInput, MIL QUINHENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1526)
+{
+    SendInput, MIL QUINHENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1527)
+{
+    SendInput, MIL QUINHENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1528)
+{
+    SendInput, MIL QUINHENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1529)
+{
+    SendInput, MIL QUINHENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1530)
+{
+    SendInput, MIL QUINHENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1531)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1532)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1533)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1534)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1535)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1536)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1537)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1538)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1539)
+{
+    SendInput, MIL QUINHENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1540)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1541)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1542)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1543)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1544)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1545)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1546)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1547)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1548)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1549)
+{
+    SendInput, MIL QUINHENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1550)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1551)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1552)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1553)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1554)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1555)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1556)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1557)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1558)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1559)
+{
+    SendInput, MIL QUINHENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1560)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1561)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1562)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1563)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1564)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1565)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1566)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1567)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1568)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1569)
+{
+    SendInput, MIL QUINHENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1570)
+{
+    SendInput, MIL QUINHENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1571)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1572)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1573)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1574)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1575)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1576)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1577)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1578)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1579)
+{
+    SendInput, MIL QUINHENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1580)
+{
+    SendInput, MIL QUINHENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1581)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1582)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1583)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1584)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1585)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1586)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1587)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1588)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1589)
+{
+    SendInput, MIL QUINHENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1590)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1591)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1592)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1593)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1594)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1595)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1596)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1597)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1598)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1599)
+{
+    SendInput, MIL QUINHENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1600)
+{
+    SendInput, MIL E SEISCENTOS {!}
+    letra++
+}
+else if (letra == 1601)
+{
+    SendInput, MIL SEISCENTOS E UM {!}
+    letra++
+}
+else if (letra == 1602)
+{
+    SendInput, MIL SEISCENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1603)
+{
+    SendInput, MIL SEISCENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1604)
+{
+    SendInput, MIL SEISCENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1605)
+{
+    SendInput, MIL SEISCENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1606)
+{
+    SendInput, MIL SEISCENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1607)
+{
+    SendInput, MIL SEISCENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1608)
+{
+    SendInput, MIL SEISCENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1609)
+{
+    SendInput, MIL SEISCENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1610)
+{
+    SendInput, MIL SEISCENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1611)
+{
+    SendInput, MIL SEISCENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1612)
+{
+    SendInput, MIL SEISCENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1613)
+{
+    SendInput, MIL SEISCENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1614)
+{
+    SendInput, MIL SEISCENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1615)
+{
+    SendInput, MIL SEISCENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1616)
+{
+    SendInput, MIL SEISCENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1617)
+{
+    SendInput, MIL SEISCENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1618)
+{
+    SendInput, MIL SEISCENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1619)
+{
+    SendInput, MIL SEISCENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1620)
+{
+    SendInput, MIL SEISCENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1621)
+{
+    SendInput, MIL SEISCENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1622)
+{
+    SendInput, MIL SEISCENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1623)
+{
+    SendInput, MIL SEISCENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1624)
+{
+    SendInput, MIL SEISCENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1625)
+{
+    SendInput, MIL SEISCENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1626)
+{
+    SendInput, MIL SEISCENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1627)
+{
+    SendInput, MIL SEISCENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1628)
+{
+    SendInput, MIL SEISCENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1629)
+{
+    SendInput, MIL SEISCENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1630)
+{
+    SendInput, MIL SEISCENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1631)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1632)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1633)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1634)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1635)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1636)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1637)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1638)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1639)
+{
+    SendInput, MIL SEISCENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1640)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1641)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1642)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1643)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1644)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1645)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1646)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1647)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1648)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1649)
+{
+    SendInput, MIL SEISCENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1650)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1651)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1652)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1653)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1654)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1655)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1656)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1657)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1658)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1659)
+{
+    SendInput, MIL SEISCENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1660)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1661)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1662)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1663)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1664)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1665)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1666)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1667)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1668)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1669)
+{
+    SendInput, MIL SEISCENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1670)
+{
+    SendInput, MIL SEISCENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1671)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1672)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1673)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1674)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1675)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1676)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1677)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1678)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1679)
+{
+    SendInput, MIL SEISCENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1680)
+{
+    SendInput, MIL SEISCENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1681)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1682)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1683)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1684)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1685)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1686)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1687)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1688)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1689)
+{
+    SendInput, MIL SEISCENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1690)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1691)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1692)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1693)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1694)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1695)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1696)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1697)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1698)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1699)
+{
+    SendInput, MIL SEISCENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1700)
+{
+    SendInput, MIL E SETECENTOS {!}
+    letra++
+}
+else if (letra == 1701)
+{
+    SendInput, MIL SETECENTOS E UM {!}
+    letra++
+}
+else if (letra == 1702)
+{
+    SendInput, MIL SETECENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1703)
+{
+    SendInput, MIL SETECENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1704)
+{
+    SendInput, MIL SETECENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1705)
+{
+    SendInput, MIL SETECENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1706)
+{
+    SendInput, MIL SETECENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1707)
+{
+    SendInput, MIL SETECENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1708)
+{
+    SendInput, MIL SETECENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1709)
+{
+    SendInput, MIL SETECENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1710)
+{
+    SendInput, MIL SETECENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1711)
+{
+    SendInput, MIL SETECENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1712)
+{
+    SendInput, MIL SETECENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1713)
+{
+    SendInput, MIL SETECENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1714)
+{
+    SendInput, MIL SETECENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1715)
+{
+    SendInput, MIL SETECENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1716)
+{
+    SendInput, MIL SETECENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1717)
+{
+    SendInput, MIL SETECENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1718)
+{
+    SendInput, MIL SETECENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1719)
+{
+    SendInput, MIL SETECENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1720)
+{
+    SendInput, MIL SETECENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1721)
+{
+    SendInput, MIL SETECENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1722)
+{
+    SendInput, MIL SETECENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1723)
+{
+    SendInput, MIL SETECENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1724)
+{
+    SendInput, MIL SETECENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1725)
+{
+    SendInput, MIL SETECENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1726)
+{
+    SendInput, MIL SETECENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1727)
+{
+    SendInput, MIL SETECENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1728)
+{
+    SendInput, MIL SETECENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1729)
+{
+    SendInput, MIL SETECENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1730)
+{
+    SendInput, MIL SETECENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1731)
+{
+    SendInput, MIL SETECENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1732)
+{
+    SendInput, MIL SETECENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1733)
+{
+    SendInput, MIL SETECENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1734)
+{
+    SendInput, MIL SETECENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1735)
+{
+    SendInput, MIL SETECENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1736)
+{
+    SendInput, MIL SETECENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1737)
+{
+    SendInput, MIL SETECENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1738)
+{
+    SendInput, MIL SETECENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1739)
+{
+    SendInput, MIL SETECENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1740)
+{
+    SendInput, MIL SETECENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1741)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1742)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1743)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1744)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1745)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1746)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1747)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1748)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1749)
+{
+    SendInput, MIL SETECENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1750)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1751)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1752)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1753)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1754)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1755)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1756)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1757)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1758)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1759)
+{
+    SendInput, MIL SETECENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1760)
+{
+    SendInput, MIL SETECENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1761)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1762)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1763)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1764)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1765)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1766)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1767)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1768)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1769)
+{
+    SendInput, MIL SETECENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1770)
+{
+    SendInput, MIL SETECENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1771)
+{
+    SendInput, MIL SETECENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1772)
+{
+    SendInput, MIL SETECENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1773)
+{
+    SendInput, MIL SETECENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1774)
+{
+    SendInput, MIL SETECENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1775)
+{
+    SendInput, MIL SETECENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1776)
+{
+    SendInput, MIL SETECENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1777)
+{
+    SendInput, MIL SETECENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1778)
+{
+    SendInput, MIL SETECENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1779)
+{
+    SendInput, MIL SETECENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1780)
+{
+    SendInput, MIL SETECENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1781)
+{
+    SendInput, MIL SETECENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1782)
+{
+    SendInput, MIL SETECENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1783)
+{
+    SendInput, MIL SETECENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1784)
+{
+    SendInput, MIL SETECENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1785)
+{
+    SendInput, MIL SETECENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1786)
+{
+    SendInput, MIL SETECENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1787)
+{
+    SendInput, MIL SETECENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1788)
+{
+    SendInput, MIL SETECENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1789)
+{
+    SendInput, MIL SETECENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1790)
+{
+    SendInput, MIL SETECENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1791)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1792)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1793)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1794)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1795)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1796)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1797)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1798)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1799)
+{
+    SendInput, MIL SETECENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1800)
+{
+    SendInput, MIL E OITOCENTOS {!}
+    letra++
+}
+else if (letra == 1801)
+{
+    SendInput, MIL OITOCENTOS E UM {!}
+    letra++
+}
+else if (letra == 1802)
+{
+    SendInput, MIL OITOCENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1803)
+{
+    SendInput, MIL OITOCENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1804)
+{
+    SendInput, MIL OITOCENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1805)
+{
+    SendInput, MIL OITOCENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1806)
+{
+    SendInput, MIL OITOCENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1807)
+{
+    SendInput, MIL OITOCENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1808)
+{
+    SendInput, MIL OITOCENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1809)
+{
+    SendInput, MIL OITOCENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1810)
+{
+    SendInput, MIL OITOCENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1811)
+{
+    SendInput, MIL OITOCENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1812)
+{
+    SendInput, MIL OITOCENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1813)
+{
+    SendInput, MIL OITOCENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1814)
+{
+    SendInput, MIL OITOCENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1815)
+{
+    SendInput, MIL OITOCENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1816)
+{
+    SendInput, MIL OITOCENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1817)
+{
+    SendInput, MIL OITOCENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1818)
+{
+    SendInput, MIL OITOCENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1819)
+{
+    SendInput, MIL OITOCENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1820)
+{
+    SendInput, MIL OITOCENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1821)
+{
+    SendInput, MIL OITOCENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1822)
+{
+    SendInput, MIL OITOCENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1823)
+{
+    SendInput, MIL OITOCENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1824)
+{
+    SendInput, MIL OITOCENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1825)
+{
+    SendInput, MIL OITOCENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1826)
+{
+    SendInput, MIL OITOCENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1827)
+{
+    SendInput, MIL OITOCENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1828)
+{
+    SendInput, MIL OITOCENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1829)
+{
+    SendInput, MIL OITOCENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1830)
+{
+    SendInput, MIL OITOCENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1831)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1832)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1833)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1834)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1835)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1836)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1837)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1838)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1839)
+{
+    SendInput, MIL OITOCENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1840)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1841)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1842)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1843)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1844)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1845)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1846)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1847)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1848)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1849)
+{
+    SendInput, MIL OITOCENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1850)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1851)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1852)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1853)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1854)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1855)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1856)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1857)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1858)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1859)
+{
+    SendInput, MIL OITOCENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1860)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1861)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1862)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1863)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1864)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1865)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1866)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1867)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1868)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1869)
+{
+    SendInput, MIL OITOCENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1870)
+{
+    SendInput, MIL OITOCENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1871)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1872)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1873)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1874)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1875)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1876)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1877)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1878)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1879)
+{
+    SendInput, MIL OITOCENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1880)
+{
+    SendInput, MIL OITOCENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1881)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1882)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1883)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1884)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1885)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1886)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1887)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1888)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1889)
+{
+    SendInput, MIL OITOCENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1890)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1891)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1892)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1893)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1894)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1895)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1896)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1897)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1898)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1899)
+{
+    SendInput, MIL OITOCENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1900)
+{
+    SendInput, MIL E NOVECENTOS {!}
+    letra++
+}
+else if (letra == 1901)
+{
+    SendInput, MIL NOVECENTOS E UM {!}
+    letra++
+}
+else if (letra == 1902)
+{
+    SendInput, MIL NOVECENTOS E DOIS {!}
+    letra++
+}
+else if (letra == 1903)
+{
+    SendInput, MIL NOVECENTOS E TRÊS {!}
+    letra++
+}
+else if (letra == 1904)
+{
+    SendInput, MIL NOVECENTOS E QUATRO {!}
+    letra++
+}
+else if (letra == 1905)
+{
+    SendInput, MIL NOVECENTOS E CINCO {!}
+    letra++
+}
+else if (letra == 1906)
+{
+    SendInput, MIL NOVECENTOS E SEIS {!}
+    letra++
+}
+else if (letra == 1907)
+{
+    SendInput, MIL NOVECENTOS E SETE {!}
+    letra++
+}
+else if (letra == 1908)
+{
+    SendInput, MIL NOVECENTOS E OITO {!}
+    letra++
+}
+else if (letra == 1909)
+{
+    SendInput, MIL NOVECENTOS E NOVE {!}
+    letra++
+}
+else if (letra == 1910)
+{
+    SendInput, MIL NOVECENTOS E DEZ {!}
+    letra++
+}
+else if (letra == 1911)
+{
+    SendInput, MIL NOVECENTOS E ONZE {!}
+    letra++
+}
+else if (letra == 1912)
+{
+    SendInput, MIL NOVECENTOS E DOZE {!}
+    letra++
+}
+else if (letra == 1913)
+{
+    SendInput, MIL NOVECENTOS E TREZE {!}
+    letra++
+}
+else if (letra == 1914)
+{
+    SendInput, MIL NOVECENTOS E QUATORZE {!}
+    letra++
+}
+else if (letra == 1915)
+{
+    SendInput, MIL NOVECENTOS E QUINZE {!}
+    letra++
+}
+else if (letra == 1916)
+{
+    SendInput, MIL NOVECENTOS E DEZESSEIS {!}
+    letra++
+}
+else if (letra == 1917)
+{
+    SendInput, MIL NOVECENTOS E DEZESSETE {!}
+    letra++
+}
+else if (letra == 1918)
+{
+    SendInput, MIL NOVECENTOS E DEZOITO {!}
+    letra++
+}
+else if (letra == 1919)
+{
+    SendInput, MIL NOVECENTOS E DEZENOVE {!}
+    letra++
+}
+else if (letra == 1920)
+{
+    SendInput, MIL NOVECENTOS E VINTE {!}
+    letra++
+}
+else if (letra == 1921)
+{
+    SendInput, MIL NOVECENTOS E VINTE E UM {!}
+    letra++
+}
+else if (letra == 1922)
+{
+    SendInput, MIL NOVECENTOS E VINTE E DOIS {!}
+    letra++
+}
+else if (letra == 1923)
+{
+    SendInput, MIL NOVECENTOS E VINTE E TRÊS {!}
+    letra++
+}
+else if (letra == 1924)
+{
+    SendInput, MIL NOVECENTOS E VINTE E QUATRO {!}
+    letra++
+}
+else if (letra == 1925)
+{
+    SendInput, MIL NOVECENTOS E VINTE E CINCO {!}
+    letra++
+}
+else if (letra == 1926)
+{
+    SendInput, MIL NOVECENTOS E VINTE E SEIS {!}
+    letra++
+}
+else if (letra == 1927)
+{
+    SendInput, MIL NOVECENTOS E VINTE E SETE {!}
+    letra++
+}
+else if (letra == 1928)
+{
+    SendInput, MIL NOVECENTOS E VINTE E OITO {!}
+    letra++
+}
+else if (letra == 1929)
+{
+    SendInput, MIL NOVECENTOS E VINTE E NOVE {!}
+    letra++
+}
+else if (letra == 1930)
+{
+    SendInput, MIL NOVECENTOS E TRINTA {!}
+    letra++
+}
+else if (letra == 1931)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E UM {!}
+    letra++
+}
+else if (letra == 1932)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E DOIS {!}
+    letra++
+}
+else if (letra == 1933)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1934)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1935)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E CINCO {!}
+    letra++
+}
+else if (letra == 1936)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E SEIS {!}
+    letra++
+}
+else if (letra == 1937)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E SETE {!}
+    letra++
+}
+else if (letra == 1938)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E OITO {!}
+    letra++
+}
+else if (letra == 1939)
+{
+    SendInput, MIL NOVECENTOS E TRINTA E NOVE {!}
+    letra++
+}
+else if (letra == 1940)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA {!}
+    letra++
+}
+else if (letra == 1941)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E UM {!}
+    letra++
+}
+else if (letra == 1942)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1943)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1944)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1945)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1946)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1947)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E SETE {!}
+    letra++
+}
+else if (letra == 1948)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E OITO {!}
+    letra++
+}
+else if (letra == 1949)
+{
+    SendInput, MIL NOVECENTOS E QUARENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1950)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA {!}
+    letra++
+}
+else if (letra == 1951)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E UM {!}
+    letra++
+}
+else if (letra == 1952)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1953)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1954)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1955)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1956)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1957)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E SETE {!}
+    letra++
+}
+else if (letra == 1958)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E OITO {!}
+    letra++
+}
+else if (letra == 1959)
+{
+    SendInput, MIL NOVECENTOS E CINQUENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1960)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA {!}
+    letra++
+}
+else if (letra == 1961)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E UM {!}
+    letra++
+}
+else if (letra == 1962)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1963)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1964)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1965)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1966)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1967)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E SETE {!}
+    letra++
+}
+else if (letra == 1968)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E OITO {!}
+    letra++
+}
+else if (letra == 1969)
+{
+    SendInput, MIL NOVECENTOS E SESSENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1970)
+{
+    SendInput, MIL NOVECENTOS E SETENTA {!}
+    letra++
+}
+else if (letra == 1971)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E UM {!}
+    letra++
+}
+else if (letra == 1972)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1973)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1974)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1975)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1976)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1977)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E SETE {!}
+    letra++
+}
+else if (letra == 1978)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E OITO {!}
+    letra++
+}
+else if (letra == 1979)
+{
+    SendInput, MIL NOVECENTOS E SETENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1980)
+{
+    SendInput, MIL NOVECENTOS E OITENTA {!}
+    letra++
+}
+else if (letra == 1981)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E UM {!}
+    letra++
+}
+else if (letra == 1982)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1983)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1984)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1985)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1986)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1987)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E SETE {!}
+    letra++
+}
+else if (letra == 1988)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E OITO {!}
+    letra++
+}
+else if (letra == 1989)
+{
+    SendInput, MIL NOVECENTOS E OITENTA E NOVE {!}
+    letra++
+}
+else if (letra == 1990)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA {!}
+    letra++
+}
+else if (letra == 1991)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E UM {!}
+    letra++
+}
+else if (letra == 1992)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E DOIS {!}
+    letra++
+}
+else if (letra == 1993)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E TRÊS {!}
+    letra++
+}
+else if (letra == 1994)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E QUATRO {!}
+    letra++
+}
+else if (letra == 1995)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E CINCO {!}
+    letra++
+}
+else if (letra == 1996)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E SEIS {!}
+    letra++
+}
+else if (letra == 1997)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E SETE {!}
+    letra++
+}
+else if (letra == 1998)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E OITO {!}
+    letra++
+}
+else if (letra == 1999)
+{
+    SendInput, MIL NOVECENTOS E NOVENTA E NOVE {!}
+    letra++
+}
+else if (letra == 2000)
+{
+    SendInput, DOIS MIL {!}
+    letra++
+}
+return
